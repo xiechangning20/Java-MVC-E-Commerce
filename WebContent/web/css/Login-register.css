@@ -1,0 +1,9 @@
+.register-div{width: 1000px;height: 550px;margin:20px auto;background: whitesmoke;;color:#000;border-radius: 6px;}
+
+.register-center{width: 870px;margin: 10px auto;}
+
+.register-top{padding-top: 30px; padding-bottom: 10px;}
+
+.top-left{float: none; margin-top:25px}
+.top-right{float:right; margin-top:15px}
+.form-group{width:500px;}
