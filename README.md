@@ -8,17 +8,17 @@
 * Admin administration service, including operation to modify user information, add & delete product type, products,shopping carts and orders through database CRUD operations
 
 ### Toolkit
-*Platform:Eclipse for JavaEE
-*Front-end pages:Html,CSS, Javascript, Jquery, Ajax, JSP, Bootstrap
-*Back-end service:Servlets, JavaBean, MySQL
-*Server:Apache Tomcat Server
+* Platform:Eclipse for JavaEE
+* Front-end pages:Html,CSS, Javascript, Jquery, Ajax, JSP, Bootstrap
+* Back-end service:Servlets, JavaBean, MySQL
+* Server:Apache Tomcat Server
 
 ### Installation
 
-*Clone the repository and import it to a platform
-*Download platform: [eclipse ee](https://www.eclipse.org/downloads/)/[IntelliJ Idea](https://www.jetbrains.com/idea/)
-*Download Database : [MySQL](https://www.mysql.com/downloads/)
-*Download Server:[Apache Tomcat Server](https://tomcat.apache.org/)
+* Clone the repository and import it to a platform
+* Download platform: [eclipse ee](https://www.eclipse.org/downloads/)/[IntelliJ Idea](https://www.jetbrains.com/idea/)
+* Download Database : [MySQL](https://www.mysql.com/downloads/)
+* Download Server:[Apache Tomcat Server](https://tomcat.apache.org/)
 
 
  
