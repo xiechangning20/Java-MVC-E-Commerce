@@ -16,7 +16,7 @@
 ### Installation
 
 * Clone the repository and import it to a platform
-* Download platform: [eclipse ee](https://www.eclipse.org/downloads/)/[IntelliJ Idea](https://www.jetbrains.com/idea/)
+* Download platform: [eclipse ee](https://www.eclipse.org/downloads/)
 * Download Database : [MySQL](https://www.mysql.com/downloads/)
 * Download Server:[Apache Tomcat Server](https://tomcat.apache.org/)
 
